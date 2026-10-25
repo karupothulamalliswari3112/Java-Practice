@@ -1,3 +1,3 @@
-# Java DSA Practice
+# Java Practice
 
 Daily Java problem solving, organised week by week.
