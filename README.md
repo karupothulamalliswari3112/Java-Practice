@@ -10,7 +10,7 @@ Hands-on Java programs written while learning Java for backend development. Prog
 | 02 | Operators | Arithmetic, assignment, increment/decrement, logical, relational |
 | 03 | Control statements | Even/odd, largest of two and three, leap year, grades, voting eligibility, season switch, vowel/consonant |
 | 04 | Loops | Palindrome, prime numbers, reverse a number, patterns, divisibility check, simple menu |
-| 05 | Arrays | Array programs |
+| 05 | Arrays | Print array elements, sort an array, largest and smallest element, linear search, reverse an array, sum and average |
 
 ## How to Run
 
